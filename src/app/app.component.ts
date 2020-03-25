@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-app';
+  desc = 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio facere dignissimos, et soluta provident, error harum optio officia.'
 }
