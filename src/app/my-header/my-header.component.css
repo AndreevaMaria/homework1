@@ -1,4 +1,6 @@
 header {
     background-color: cornflowerblue;
-    margin: 2rem;
+    padding: 2rem;
+    color: white;
+    font-size: larger;
 }
